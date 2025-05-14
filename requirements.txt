@@ -1,6 +1,6 @@
 streamlit
 numpy
-pickle
+pickle5
 pandas
 matplotlib
 seaborn
@@ -14,4 +14,3 @@ six
 joblib
 threadpoolctl
 scipy
-gunicorn
