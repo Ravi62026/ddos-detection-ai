@@ -4,13 +4,9 @@ pickle5
 pandas
 matplotlib
 seaborn
-PIL
-base64
+pillow
 xgboost
 scikit-learn
-python-dateutil
 pytz
-six
 joblib
-threadpoolctl
 scipy
